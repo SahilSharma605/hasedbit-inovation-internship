@@ -62,7 +62,7 @@ console.log(filterOddNumbers([1, 2, 3, 4, 5, 6, 7]));
 //6. Object with properties
 
 const person = {
-  name: "Ravi",
+  name: "",sahil
   age: 25,
   occupation: "Engineer"
 };
